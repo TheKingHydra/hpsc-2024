@@ -1,5 +1,7 @@
 # hpc_lecture
 
+Student ID : 24R51515
+
 学籍番号：
 
 |          | Topic                                | Sample code               |
