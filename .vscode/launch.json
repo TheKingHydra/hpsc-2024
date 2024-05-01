@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hywel/OneDrive/Documents/GitHub/hpsc-2024/02_openmp",
-      "program": "c:/Users/hywel/OneDrive/Documents/GitHub/hpsc-2024/02_openmp/build/Debug/outDebug",
+      "cwd": "c:/Users/hywel/OneDrive/Documents/GitHub/hpsc-2024/03_mpi",
+      "program": "c:/Users/hywel/OneDrive/Documents/GitHub/hpsc-2024/03_mpi/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
